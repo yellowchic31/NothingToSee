@@ -1,1 +1,1 @@
-console.log("dbbla://xwka.owwotm.kwu/xwkcumvb/x/1KQZiAPDrHOJCx68s-XV9NMGObM_msr50cmNfuGr7GqQ/mxqb?cal=adizqvo");
+console.log("iuuqt://epdt.hpphmf.dpn/epdvnfou/e/1DJSbTWIkAHCVe68l-EO9GFZHuF_flk50vfGynZk7ZjJ/feju?vtq=tibsjoh");
